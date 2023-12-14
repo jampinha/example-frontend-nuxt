@@ -1,5 +1,5 @@
 <template>
-  <div class="first-component">First Componnet</div>
+  <div class="first-component">First Component</div>
 </template>
 
 <script setup lang="ts">
